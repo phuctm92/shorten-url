@@ -1,5 +1,6 @@
 
-# THE URL SHORTENER CHALLENGE
+# THE URL SHORTENER CHALLENGE (Re-summarize)
+*Source: Spiderbox*
 
 ## 1. REQUIREMENTS
 
