@@ -33,5 +33,7 @@
 ## 2. Tech stacks
 - Ruby 3.2
 - Rails 7.0
+- Mysql 8.0
 - Stimulusjs
+- Frontend (Bootstrap v5, tailwindcss *(recommend)* ....)
 - Plus point if use Reactjs, Docker, Rspec
