@@ -70,3 +70,6 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+# Configure app by using ENV and single YAML file
+gem 'figaro', '~> 1.2'
